@@ -1,0 +1,101 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.cabecalho{
+    background-color: #000000;
+    color:white;
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.imagem1{
+    width: 10%;
+    
+}
+.cabecalho-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+.software-imagem{
+    width: 25%;
+}
+
+.software{
+    background-image: linear-gradient(#000000,#993399, #bc4ed8);
+    color:white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.software-div-conteudo{
+    width: 35%;
+}
+
+.software-titulo{
+    padding:24px 0;
+}
+
+.tipos-software{
+    width: 200px;
+    
+}
+.icones{
+    width: 24px;
+}
+
+.icones-div{
+    text-align: center;
+}
+
+.tipos-software-dois{
+    width: 200px;
+}
+.icones{
+    width: 24px;
+}
+
+.icones-div-dois{
+    text-align: center;
+}
+
+.Tipos-de-Software-titulo{
+    text-align: center;
+    padding: 50px 0;
+}
+
+.software-todos{
+    display:grid;
+    grid-template-columns: 20% 20% 20% 20% 20% ;
+}
+
+.restante{
+   
+    background-image: linear-gradient(#b810e2,#e68de6);
+}
+
+.cabecalho2{
+    background-color: #000000;
+    color:white;
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+}
+
+.imagem2{
+    width: 10%;
+    
+    
+}
+
+
